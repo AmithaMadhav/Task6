@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #1DB954;
+}
+
+.card {
+    background-color: #fff;
+}
+
+.list-group-item {
+    background-color: #ffffff;
+    border: none;
+}
+
+footer {
+    background-color: #1DB954;
+    color: white;
+}
